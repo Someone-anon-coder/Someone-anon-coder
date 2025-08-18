@@ -1,6 +1,6 @@
 # Project Summary
 
-This document provides a summary of the projects found in the `/home/user1/Projects/` directory.
+This document provides a summary of the projects.
 
 ---
 
