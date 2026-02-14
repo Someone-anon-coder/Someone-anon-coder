@@ -47,7 +47,8 @@ I believe in continuous documentation of my learning journey. You can check my p
 
 *   🛡️ **[Cybersecurity Journey](https://github.com/Someone-anon-coder/cybersecurity_tracker)**: From Network Scanning (Nmap) to Cryptography and Web App Security.
 *   🐍 **[Python Masterclass](https://github.com/Someone-anon-coder/python_tracker)**: Documenting everything from decorators to sophisticated OOP patterns.
-*   👁️ **[OpenCV & Matplotlib](https://github.com/Someone-anon-coder/opencv_tracker)**: Tracking progress in Computer Vision and Data Visualization.
+*   👁️ **[OpenCV](https://github.com/Someone-anon-coder/opencv_tracker)**: Tracking progress in Computer Vision and Image Manipulation.
+*   📊 **[Matplotlib](https://github.com/Someone-anon-coder/Matplotlib)**: Visualizing trends and patterns to understand data analysis.
 
 ---
 
