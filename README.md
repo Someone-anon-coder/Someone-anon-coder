@@ -1,25 +1,61 @@
 # 👋 Hi, I’m @Someone-anon-coder
 
-### 👀 About Me
-I’m an **implementation-oriented programmer** with a passion for hands-on experimentation and real-world problem-solving. My approach to programming focuses on creating practical, functional solutions using code, emphasizing **real-world applications** over theoretical exploration.
+### 🚀 Autonomous Systems | Generative AI | Cybersecurity | QA Automation
 
-I’m skilled in several programming languages, including **Python**, **C**, **C++**, **PHP**, **SQL**, **Java**, and **AutoHotkey**, and I'm particularly interested in **machine learning** and **AI**.
+I’m an **implementation-oriented engineer** passionate about bridging the gap between hardware and software. My work spans from low-level **drone telemetry encryption** and **robotic arm simulation** to high-level **Generative AI dashboards** and **async-first testing frameworks**. I focus on building robust, real-world solutions rather than just theoretical models.
 
-### 🌱 What I’m Currently Working On
-I'm currently working on a project called **AI Ecosystem**, where the goal is to create an advanced **PC assistant** capable of performing any tasks a human can execute via a computer. This involves building models for **reinforcement learning** and expanding my knowledge into the field of **cybersecurity**, focusing on AI solutions to combat modern-day cyber threats.
+---
 
-### 💡 Past Projects
-Some of the projects I've developed include:
-- **Tic-tac-toe playing agent**: A simple AI agent that plays Tic-tac-toe.
-- **Maze-solving agent**: A reinforcement learning-based agent that finds its way through mazes.
-- **Sentiment analyzer**: A tool using natural language processing to analyze and classify text sentiment.
-- **Object detection model**: Implementation of a YOLO-like object detection system with custom models.
+### 🛠️ Tech Stack
+
+*   **Languages:** Python, C++, C, Go, JavaScript/TypeScript, SQL, PHP.
+*   **AI & ML:** Reinforcement Learning (DQN, SAC), OpenCV, YOLO, Google Gemini API, Scikit-learn, Pandas.
+*   **Robotics & Sim:** ROS concepts, MAVSDK, PyBullet, Gazebo, Protobuf.
+*   **Web & Frameworks:** React, Streamlit, Flask, Firebase, Playwright, Pytest.
+*   **Security:** mTLS, OpenSSL, Cryptography (SHA-256), Ethical Hacking tools.
+
+---
+
+### 🔭 Featured Projects
+
+#### 🤖 Robotics & Autonomous Systems
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[AetherLink](https://github.com/Someone-anon-coder/AetherLink)** | Secure UAV telemetry system using **mTLS** and **Protobuf**. Connects C++ onboard agents with a Go backend. | C++, Go, MAVSDK, OpenSSL |
+| **[Drone Operations](https://github.com/Someone-anon-coder/Drone-Operations)** | Suite for synthetic data generation, **YOLO-based collision avoidance**, and automated payload delivery. | Python, YOLO, OpenCV |
+| **[Robotic Arm RL](https://github.com/Someone-anon-coder/Robotic_Arm_RL)** | **EEG-controlled** robotic arm simulation using **Soft Actor-Critic (SAC)** to imitate human motion in PyBullet. | Python, PyBullet, RL |
+| **[RL Drone Model](https://github.com/Someone-anon-coder/RL_Model)** | Autonomous drone navigation and speed control using **Deep Q-Learning (DQN)**. | Python, Gazebo |
+
+#### 🧠 Generative AI & Software Ecosystems
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[UIDAI Drishti Dashboard](https://github.com/Someone-anon-coder/UIDAI_drishti_analytics_dashboard)** | AI-powered analytics platform for Aadhaar data featuring a **conversational AI analyst** (Gemini) and dynamic plotting. | Streamlit, Gemini API, Plotly |
+| **[Heimdall Framework](https://github.com/Someone-anon-coder/heimdall_framework)** | Modern, **async-first CRM automation framework** built for speed and audit compliance using a "No-Magic-Strings" policy. | Python, Playwright, MongoDB |
+| **[AI Ecosystem](https://github.com/Someone-anon-coder/AI_Ecosystem)** | Hierarchical NLP framework that translates natural language commands into executable PC tasks. | Python, NLP, APIs |
+| **[Echoes (Aura)](https://github.com/Someone-anon-coder/echoes_ai_friend)** | Confidential mental wellness companion app ensuring privacy via client-side API calls. | React, Firebase, Gemini API |
+
+#### 🔐 Cybersecurity
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[SeedPass](https://github.com/Someone-anon-coder/password_generator)** | Deterministic, seed-based password generator CLI producing high-entropy credentials. | C++, SHA-256 |
+| **[SpyWare Research](https://github.com/Someone-anon-coder/spyware)** | *Educational research tool* for understanding system monitoring (Key/Mouse logging) and data capture techniques. | Python, JSONL |
+
+---
+
+### 📈 Learning & Progress Trackers
+I believe in continuous documentation of my learning journey. You can check my progress in specific domains here:
+
+*   🛡️ **[Cybersecurity Journey](https://github.com/Someone-anon-coder/cybersecurity_tracker)**: From Network Scanning (Nmap) to Cryptography and Web App Security.
+*   🐍 **[Python Masterclass](https://github.com/Someone-anon-coder/python_tracker)**: Documenting everything from decorators to sophisticated OOP patterns.
+*   👁️ **[OpenCV & Matplotlib](https://github.com/Someone-anon-coder/opencv_tracker)**: Tracking progress in Computer Vision and Data Visualization.
+
+---
 
 ### 💞️ Collaboration
 I’m looking to collaborate on:
-- **AI-driven solutions** for both **machine learning** and **cybersecurity**.
-- Projects focused on **reinforcement learning** and **AI-driven automation**.
-- **Open-source AI tools** to make intelligent systems more accessible to the community.
+*   **Secure Robotics:** Integrating encryption/security directly into flight controllers.
+*   **Hierarchical Reinforcement Learning:** Solving complex control tasks (like 27-DOF arms).
+*   **Generative AI Agents:** Building agents that can reliably use tools and APIs (Function Calling).
 
 ### ⚡ Fun Fact
-I thrive on exploring how **AI** can solve complex, real-world problems—especially in areas that involve **learning from data** and automating processes. Outside of coding, I’m fascinated by how technology can be used to secure the digital world against evolving cyber threats.
+I once built a **Tic-Tac-Toe AI** that learned to win via Q-learning, and now I'm applying similar logic to teach robotic arms how to move based on brain signals! I love seeing code interact with the physical world.
