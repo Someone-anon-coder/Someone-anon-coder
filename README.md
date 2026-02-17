@@ -23,7 +23,7 @@ I’m an **implementation-oriented engineer** passionate about bridging the gap 
 | :--- | :--- | :--- |
 | **[AetherLink](https://github.com/Someone-anon-coder/AetherLink)** | Secure UAV telemetry system using **mTLS** and **Protobuf**. Connects C++ onboard agents with a Go backend. | C++, Go, MAVSDK, OpenSSL |
 | **[Drone Operations](https://github.com/Someone-anon-coder/Drone-Operations)** | Suite for synthetic data generation, **YOLO-based collision avoidance**, and automated payload delivery. | Python, YOLO, OpenCV |
-| **[Robotic Arm RL](https://github.com/Someone-anon-coder/Robotic_Arm_RL)** | **EEG-controlled** robotic arm simulation using **Soft Actor-Critic (SAC)** to imitate human motion in PyBullet. | Python, PyBullet, RL |
+| **[Robotic Arm RL](https://github.com/Someone-anon-coder/Robotic_Arm)** | **EEG-controlled** robotic arm simulation using **Soft Actor-Critic (SAC)** to imitate human motion in PyBullet. | Python, PyBullet, RL |
 | **[RL Drone Model](https://github.com/Someone-anon-coder/RL_Model)** | Autonomous drone navigation and speed control using **Deep Q-Learning (DQN)**. | Python, Gazebo |
 
 #### 🧠 Generative AI & Software Ecosystems
@@ -45,9 +45,9 @@ I’m an **implementation-oriented engineer** passionate about bridging the gap 
 ### 📈 Learning & Progress Trackers
 I believe in continuous documentation of my learning journey. You can check my progress in specific domains here:
 
-*   🛡️ **[Cybersecurity Journey](https://github.com/Someone-anon-coder/cybersecurity_tracker)**: From Network Scanning (Nmap) to Cryptography and Web App Security.
-*   🐍 **[Python Masterclass](https://github.com/Someone-anon-coder/python_tracker)**: Documenting everything from decorators to sophisticated OOP patterns.
-*   👁️ **[OpenCV](https://github.com/Someone-anon-coder/opencv_tracker)**: Tracking progress in Computer Vision and Image Manipulation.
+*   🛡️ **[Cybersecurity Journey](https://github.com/Someone-anon-coder/cybersecurity)**: From Network Scanning (Nmap) to Cryptography and Web App Security.
+*   🐍 **[Python Masterclass](https://github.com/Someone-anon-coder/python)**: Documenting everything from decorators to sophisticated OOP patterns.
+*   👁️ **[OpenCV](https://github.com/Someone-anon-coder/opencv)**: Tracking progress in Computer Vision and Image Manipulation.
 *   📊 **[Matplotlib](https://github.com/Someone-anon-coder/Matplotlib)**: Visualizing trends and patterns to understand data analysis.
 
 ---
