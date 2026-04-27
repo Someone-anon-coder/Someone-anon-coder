@@ -21,6 +21,7 @@ I’m an **implementation-oriented engineer** passionate about bridging the gap 
 #### 🤖 Robotics & Autonomous Systems
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[Live-Translator](https://github.com/Someone-anon-coder/Live-Translator)** | Real-Time Translation Engine. Local desktop translation achieving **sub-100ms** latency | Python, PyQt6, Multithreading, OCR |
 | **[AetherLink](https://github.com/Someone-anon-coder/AetherLink)** | Secure UAV telemetry system using **mTLS** and **Protobuf**. Connects C++ onboard agents with a Go backend. | C++, Go, MAVSDK, OpenSSL |
 | **[Drone Operations](https://github.com/Someone-anon-coder/Drone-Operations)** | Suite for synthetic data generation, **YOLO-based collision avoidance**, and automated payload delivery. | Python, YOLO, OpenCV |
 | **[Robotic Arm RL](https://github.com/Someone-anon-coder/Robotic_Arm)** | **EEG-controlled** robotic arm simulation using **Soft Actor-Critic (SAC)** to imitate human motion in PyBullet. | Python, PyBullet, RL |
