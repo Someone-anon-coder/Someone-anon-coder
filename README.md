@@ -50,6 +50,7 @@ I believe in continuous documentation of my learning journey. You can check my p
 *   🐍 **[Python Masterclass](https://github.com/Someone-anon-coder/python)**: Documenting everything from decorators to sophisticated OOP patterns.
 *   👁️ **[OpenCV](https://github.com/Someone-anon-coder/opencv)**: Tracking progress in Computer Vision and Image Manipulation.
 *   📊 **[Matplotlib](https://github.com/Someone-anon-coder/Matplotlib)**: Visualizing trends and patterns to understand data analysis.
+*   🐹 **[Golang](https://github.com/Someone-anon-coder/Golang)**: This repository documents my progress as I learn and explore Go programming, starting from the fundamentals.
 
 ---
 
