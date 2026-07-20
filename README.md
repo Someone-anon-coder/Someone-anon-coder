@@ -1,22 +1,29 @@
 # 👋 Hi, I’m @Someone-anon-coder
 
-### 🚀 Autonomous Systems | Generative AI | Cybersecurity | QA Automation
+### 🚀 QA Automation | Autonomous Systems | Generative AI | Cybersecurity
 
-I’m an **implementation-oriented engineer** passionate about bridging the gap between hardware and software. My work spans from low-level **drone telemetry encryption** and **robotic arm simulation** to high-level **Generative AI dashboards** and **async-first testing frameworks**. I focus on building robust, real-world solutions rather than just theoretical models.
+I’m an **implementation-oriented engineer** passionate about bridging the gap between hardware and software. My work spans from **self-healing Playwright test frameworks** and **async-first testing architecture** to low-level **drone telemetry encryption**, **robotic arm simulation**, and **Generative AI dashboards**. I focus on building robust, real-world solutions rather than just theoretical models.
 
 ---
 
 ### 🛠️ Tech Stack
 
 *   **Languages:** Python, C++, C, Go, JavaScript/TypeScript, SQL, PHP.
+*   **QA & Automation:** Playwright, Pytest (xdist), Selenium WebDriver, K6, Postman, BrowserStack, CI/CD (Jenkins, Docker, GitHub Actions).
 *   **AI & ML:** Reinforcement Learning (DQN, SAC), OpenCV, YOLO, Google Gemini API, Scikit-learn, Pandas.
 *   **Robotics & Sim:** ROS concepts, MAVSDK, PyBullet, Gazebo, Protobuf.
-*   **Web & Frameworks:** React, Streamlit, Flask, Firebase, Playwright, Pytest.
+*   **Web & Frameworks:** React, Streamlit, Flask, Firebase.
 *   **Security:** mTLS, OpenSSL, Cryptography (SHA-256), Ethical Hacking tools.
 
 ---
 
 ### 🔭 Featured Projects
+
+#### 🧪 QA Automation & Testing
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[playwright-eir](https://github.com/Someone-anon-coder/Eir)** ([npm](https://www.npmjs.com/package/playwright-eir)) | Self-healing Playwright locator engine, published v1.0.0. Recovers broken locators through UI drift with a measured **0% false-heal rate** across an 8-class seeded mutation benchmark. | TypeScript (strict), Zod, pnpm monorepo |
+| **[Heimdall Framework](https://github.com/Someone-anon-coder/heimdall_framework)** | Async-first CRM automation framework built for speed and audit compliance using a "No-Magic-Strings" policy. | Python, Playwright, MongoDB |
 
 #### 🤖 Robotics & Autonomous Systems
 | Project | Description | Tech |
@@ -31,7 +38,6 @@ I’m an **implementation-oriented engineer** passionate about bridging the gap 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[UIDAI Drishti Dashboard](https://github.com/Someone-anon-coder/UIDAI_drishti_analytics_dashboard)** | AI-powered analytics platform for Aadhaar data featuring a **conversational AI analyst** (Gemini) and dynamic plotting. | Streamlit, Gemini API, Plotly |
-| **[Heimdall Framework](https://github.com/Someone-anon-coder/heimdall_framework)** | Modern, **async-first CRM automation framework** built for speed and audit compliance using a "No-Magic-Strings" policy. | Python, Playwright, MongoDB |
 | **[AI Ecosystem](https://github.com/Someone-anon-coder/AI_Ecosystem)** | Hierarchical NLP framework that translates natural language commands into executable PC tasks. | Python, NLP, APIs |
 | **[Echoes (Aura)](https://github.com/Someone-anon-coder/echoes_ai_friend)** | Confidential mental wellness companion app ensuring privacy via client-side API calls. | React, Firebase, Gemini API |
 
@@ -56,9 +62,9 @@ I believe in continuous documentation of my learning journey. You can check my p
 
 ### 💞️ Collaboration
 I’m looking to collaborate on:
+*   **AI-Native QA:** Self-healing, resilient test automation for modern web apps.
 *   **Secure Robotics:** Integrating encryption/security directly into flight controllers.
 *   **Hierarchical Reinforcement Learning:** Solving complex control tasks (like 27-DOF arms).
-*   **Generative AI Agents:** Building agents that can reliably use tools and APIs (Function Calling).
 
 ### ⚡ Fun Fact
-I once built a **Tic-Tac-Toe AI** that learned to win via Q-learning, and now I'm applying similar logic to teach robotic arms how to move based on brain signals! I love seeing code interact with the physical world.
+I once built a **Tic-Tac-Toe AI** that learned to win via Q-learning, and now I'm applying similar logic to teach test locators how to heal themselves when the UI shifts!
