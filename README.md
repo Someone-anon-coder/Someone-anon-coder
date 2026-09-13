@@ -8,7 +8,7 @@ I'm an implementation-oriented engineer: B.E. in Automation & Robotics with an H
 
 **Open to SDET / QA Automation / SDE / Application Security roles** — Pune, Bengaluru, Hyderabad, or remote.
 
-💼 [LinkedIn](https://www.linkedin.com/in/aayush-choudhary-a52aab25b/) · ✍️ [Medium](https://medium.com/@computer-info-1) · 🌐 [breechlab.com](https://breachlab.org/u/someone_anon_coder)
+🌐 [Portfolio](https://aayush-choudhary.infinityfree.me/?i=2) · 💼 [LinkedIn](https://www.linkedin.com/in/aayush-choudhary-a52aab25b/) · ✍️ [Medium](https://medium.com/@computer-info-1) · 🌐 [breechlab.com](https://breachlab.org/u/someone_anon_coder)
 
 ---
 
