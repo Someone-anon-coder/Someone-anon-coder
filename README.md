@@ -44,8 +44,6 @@ I'm an implementation-oriented engineer: B.E. in Automation & Robotics with an H
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[playwright-eir](https://github.com/Someone-anon-coder/Eir)** · [npm](https://www.npmjs.com/package/playwright-eir) | Self-healing locator engine for Playwright, published at **v1.0.0**. Fingerprints elements while the suite is green, then matches a broken selector against that fingerprint with six deterministic scorers. **0.0% false-heal rate in every class of an 8-class seeded mutation benchmark** — and the misses are published too. Drop-in: change one import. | TypeScript (strict), Zod, pnpm monorepo |
-| **[FinacPlus QA](https://github.com/Someone-anon-coder/FinacPlus_QA)** | Two independent Playwright suites — a UI journey through DemoQA Book Store and an API lifecycle against reqres.in — including an explicitly documented test that asserts a `404` because the mock is stateless, rather than skipping the check. | JavaScript, Playwright, CI |
-| **[Bynry QA Assessment](https://github.com/Someone-anon-coder/bynry-qa-automation-assessment)** | Take-home QA automation assessment. Companion: [inventory management assessment](https://github.com/Someone-anon-coder/bynry-inventory-management-assessment). | Python, Playwright |
 
 📖 Build story: [Building playwright-eir — a self-healing locator engine with a measured 0% false-heal rate](https://computer-info-1.medium.com/building-playwright-eir-a-self-healing-locator-engine-with-a-measured-0-false-heal-rate-70eac1c27bf7)
 
